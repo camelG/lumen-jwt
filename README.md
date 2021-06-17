@@ -1,8 +1,9 @@
 # Lumen JWT
 
-dev
-
 ```bash
+# composer install
+composer install
+
 # edit env
 cp .env.example .env
 
